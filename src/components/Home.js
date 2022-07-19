@@ -15,15 +15,14 @@ const Home = () => {
         <div className="home__row">
           <Product
             img="https://m.media-amazon.com/images/I/41gr3r3FSWL.jpg"
-            title="Book Cover Design Formula: Complete DIY Book Cover Design Guide for
-            Self-published and Indie Authors (Sell Books on Amazon 3)"
+            title="Book Cover Design Formula"
             id={12541563}
             price="1,994.00"
             rating={5}
           />
           <Product
             img={"https://m.media-amazon.com/images/I/51oWvyUWJSL._UL1000_.jpg"}
-            title="Fossil Gen 6 Men's Smartwatch with AMOLED Screen, Snapdragon 4100+ Wear Platform, Wear OS by Google, Google Assistant, SpO2, Wellness Features and Smartphone Notifications"
+            title="Fossil Gen 6 Men's Smartwatch with AMOLED Screen"
             id={12541513}
             price="24,995.00"
             rating={4}
@@ -40,7 +39,7 @@ const Home = () => {
           />
           <Product
             img={"https://m.media-amazon.com/images/I/61N6Ai7RkJL._SL1500_.jpg"}
-            title="Sony WH-CH710N Active Noise Cancelling Wireless Headphones Bluetooth Over The Ear Headset with Mic for Phone-Call, 35Hrs Battery Life, Aux, Quick Charge and Google Assistant Support for Mobiles -Black"
+            title="Sony WH-CH710N Active Noise Cancelling Wireless Headphones"
             id={12541513}
             price="8,590.00"
             rating={4}
@@ -57,7 +56,7 @@ const Home = () => {
         <div className="home__row">
           <Product
             img={"https://m.media-amazon.com/images/I/61V7cDH8AAS._SL1188_.jpg"}
-            title="Mi 125.7 cm (50 Inches) 4K Ultra HD Android Smart LED TV 4X | L50M5-5AIN (Black)"
+            title="Mi 4K Ultra HD Android Smart LED TV 4X"
             id={11541513}
             price="29,999.00"
             rating={4}
